@@ -11,7 +11,7 @@ class Abertura: SKScene {
         
         
         self.imagemAbertura.setScale(0.5)
-        self.imagemAbertura.position.y = 45
+        self.imagemAbertura.position.y = 40
         self.addChild(self.imagemAbertura)
         
         self.botaoProx.setScale(0.2)
