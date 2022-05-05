@@ -10,7 +10,7 @@ class Abertura: SKScene {
         self.addChild(background)
         
         
-        self.imagemAbertura.setScale(0.5)
+        self.imagemAbertura.setScale(0.6)
         self.imagemAbertura.position.y = 40
         self.addChild(self.imagemAbertura)
         
